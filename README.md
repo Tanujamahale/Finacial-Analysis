@@ -42,7 +42,7 @@ This project is a comprehensive **Financial Analysis Dashboard** developed in **
 
 📷 *Sample Dashboard Preview*:
 
-![Dashboard Preview](images/financial-dashboard-preview.png)
+![Dashboard Preview](Sanpshot_of_financial_analysis.png)
 
 ---
 
