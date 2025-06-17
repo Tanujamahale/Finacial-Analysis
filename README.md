@@ -1,4 +1,4 @@
-# Finacial-Analysis
+# Financial-Analysis
 # 💰 Financial Analysis Dashboard
 
 ## 📝 Description
